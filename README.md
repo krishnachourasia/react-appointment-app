@@ -1,4 +1,4 @@
-## Pet Hospital Management System
+## Pet Hospital Appointment System
 
 In the project, you can do:
 
