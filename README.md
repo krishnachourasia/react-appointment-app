@@ -1,29 +1,29 @@
 ## Pet Hospital Appointment System
 
-In the project, you can do:
+In the project, you can:
 
-Search an apoointment.
+- Search an appointment.
 
-Sort the list of apoointments based on different tags.
+- Sort the list of appointments based on different tags.
 
-Add an appointment.
+- Add an appointment.
 
-Delete an appointment.
+- Delete an appointment.
 
 
 ## Libraries Used
 
-React.js
+- React.js
 
-Bootstrap 4
+- Bootstrap 4
 
-Lodash
+- Lodash
 
-Moment
+- Moment
 
-React-moment
+- React-moment
 
-Popper.js
+- Popper.js
 
 ## Screenshots
 
@@ -33,4 +33,12 @@ Popper.js
 
 ## Deploy on your system
 
-Clone this repo, and run npm install in the commandline.
+Clone this repo, and run
+```
+npm install 
+```
+
+And then, 
+```
+npm start
+```
